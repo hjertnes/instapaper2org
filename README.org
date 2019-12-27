@@ -1,0 +1,3 @@
+* Instapaper2org
+
+A simple go program that takes path to a instapaper csv file and filters your starred items, and prints a list of org-mode links
