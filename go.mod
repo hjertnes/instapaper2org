@@ -1,3 +1,3 @@
-module github.com/hjertnes/instapaper2org
+module git.sr.ht/~hjertnes/instapaper2org
 
 go 1.13
