@@ -1,3 +1,3 @@
-module git.sr.ht/~hjertnes/instapaper2org
+module github.com/hjertnes/instapaper2org
 
-go 1.13
+go 1.14
