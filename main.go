@@ -38,6 +38,6 @@ func main() {
 			continue
 		}
 
-		fmt.Printf("- [[%s][%s]]\n", url, title)
+		fmt.Printf("- [%s](%s)\n", title, url)
 	}
 }
